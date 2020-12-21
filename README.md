@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone, I'm Kevenny 👋</h1>
 
-I'm a Information System student at Federal University of Sergipe
+<h3 align="center">I'm a Brazilian Information System student at Federal University of Sergipe </h3>
 
 <h3 align="left">⚡ Experience in Work and Projects:</h3>
 
@@ -29,6 +29,11 @@ I'm a Information System student at Federal University of Sergipe
 <img src="https://camo.githubusercontent.com/bde41ee933074ab16e159469ad1f25dd585be8dc4537e14429617d261816dabe/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="c" width="40" height="40"/></p>
 
 
+<h3 align="left">📥 Contact:</h3>
+
+---
+
+[<img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=35 alt="Kevenny's gmail">](mailto:kevennykeke@gmail.com)
 <!--
 **KevennyJS/KevennyJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
