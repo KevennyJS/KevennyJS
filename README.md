@@ -17,7 +17,7 @@
 ---
 
 <!-- ICONS TO SKILLS -->
-<p align="left"><img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/>
+<p align="center"><img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="c" width="40" height="40"/>
@@ -33,7 +33,17 @@
 
 ---
 
-[<img src="https://image.flaticon.com/icons/png/512/281/281769.png" width=35 alt="Kevenny's gmail">](mailto:kevennykeke@gmail.com)
+<p align="center"><a href="mailto:kevennykeke@gmail.com"> <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a></p>
+
+<h3 align="left">📊 graphs:</h3>
+
+---
+
+[![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **KevennyJS/KevennyJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
