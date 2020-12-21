@@ -7,8 +7,8 @@
 ---
 
 - Currently internship developer to interprise ELESSON (a digital education system) using Flutter [Since 07/2020]
-- Concluded Data Mining research project using Pyhton at university like a voluntary participant! [Started and finished in 2019]
-- Monitor to project "preparatory course to OBI exam" at university like a voluntary participant! [Started in 2019(first class) ages until the present day (second class)]
+- Concluded Data Mining research project using Pyhton at university as a volunteer participant! [Started and finished in 2019]
+- Monitor to project "preparatory course to OBI exam" at university as a volunteer participant! [Started in 2019(first class) ages until the present day (second class)]
 - Freelancer to more 2 interprise, but i can't name the names because of the confidentiality term. But, both using Flutter and API's.
 
 
