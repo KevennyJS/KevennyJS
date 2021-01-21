@@ -17,16 +17,16 @@
 ---
 
 <!-- ICONS TO SKILLS -->
-<p align="center"><img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="c" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="c" width="40" height="40"/>
 <img src="https://img.icons8.com/color/452/firebase.png" alt="c" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/bde41ee933074ab16e159469ad1f25dd585be8dc4537e14429617d261816dabe/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="c" width="40" height="40"/></p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="c" width="40" height="40"/></p>
 
 
 <h3 align="left">📥 Contact:</h3>
