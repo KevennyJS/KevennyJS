@@ -35,17 +35,27 @@
 
 <p align="center"><a href="mailto:kevennykeke@gmail.com"> <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a></p>
 
+
+
 <h3 align="left">📊 graphs:</h3>
 
 ---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevennyjs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=kevennyjs&theme=flat&no-frame=true&margin-w=30" />
+
+<!--
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
+
 **KevennyJS/KevennyJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.linkedin.com/in/kevenny-de-jesus-santos/
+
 
 Here are some ideas to get you started:
 
