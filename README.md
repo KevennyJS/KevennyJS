@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Brazilian Information System student at Federal University of Sergipe </h3>
 
-<h3 align="left">⚡ Experience in Work and Projects:</h3>
+<h3 align="left">⚡ Experience in Work and Projects: ![](https://visitor-badge.glitch.me/badge?page_id=joannestephany.joannestephany)</h3>
 
 ---
 
