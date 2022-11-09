@@ -4,70 +4,76 @@
 
 <h3 align="center">I'm a Brazilian Information System student at Federal University of Sergipe </h3>
 
-<h3 align="left">⚡ Experience in Work and Projects:  </h3>
-
----
-
-- Currently internship developer to start-up ELESSON (a digital education system) using Flutter [Since 07/2020]
-- Concluded Data Mining research project using Pyhton at university as a volunteer participant! [Started and finished in 2019]
-- Monitor to project "preparatory course to OBI exam" at university as a volunteer participant! [Started in 2019(first class) ages until the present day (second class)]
-- Currently freelancer to more 2 enterprises, but i can't name the names because of the confidentiality term. But, both using Flutter and API's.
-
-
 <h3 align="left">👨‍💻 Skills:</h3>
 
 ---
 
 <!-- ICONS TO SKILLS -->
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="c" width="40" height="40"/>
-<img src="https://img.icons8.com/color/452/firebase.png" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="c" width="40" height="40"/></p>
+<p align="center">
+<img alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+<img alt="Dart" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+<img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img alt="CPP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="CSHARP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+<img alt="Firebase" width="40" height="40" src="https://img.icons8.com/color/452/firebase.png"/>
+<img alt="PostegreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"/></p>
 
-
-<h3 align="left">📥 Contact:</h3>
 
 ---
 
-<p align="center"><a href="mailto:kevennykeke@gmail.com"> <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a></p>
 
-
-
-<h3 align="left">📊 graphs:</h3>
-
+```dart
+class Developer {
+  final String username;
+  final String name;
+  final String website;
+  final String email;
+  final List<String> social;
+  final Map<String, dynamic> code;
+  Developer()
+      : username = 'KevennyJS',
+        name = 'Kevenny J Santos',
+        website = 'kevenny.studio',
+        email = 'kevennykeke@gmail.com',
+        social = [
+          'https://www.linkedin.com/in/kevennyjs/',
+          'https://https://medium.com/@kevennykeke/',
+          'https://instagram.com/kevennyjs',
+        ],
+        code = {
+          'mobile': ['Flutter'],
+          'frontend': ['Flutter', 'VUE', 'HTML', 'CSS', 'JavaScript'],
+          'backend': ['C/C++', 'C#', '.NET', 'NodeJS', 'Python','PHP', 'LUA', 'Haskell'],
+          'low_level': ['Assembly'],
+          'database': ['SQL SERVER', 'MySQL', 'PostegreSQL','Oracle', 'Mongo DB'],
+          'devops': ['Docker', 'GitHub Actions'],
+          'tools': [
+            'GIT',
+            'GitHub',
+            'GitLab',
+            'BitBucket',
+            'Azure DevOps'
+          ],
+          'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture', 'Figma']
+        };
+}
+```
 ---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevennyjs&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/kevennyjs)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevennyjs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=kevennyjs&theme=flat&no-frame=true&margin-w=30" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevennyjs&theme=dracula&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/kevennyjs)
 
 <!--
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevennyjs&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-**KevennyJS/KevennyJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://www.linkedin.com/in/kevenny-de-jesus-santos/
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
