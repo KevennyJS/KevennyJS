@@ -43,7 +43,7 @@ class Developer {
         email = 'kevennykeke@gmail.com',
         social = [
           'https://www.linkedin.com/in/kevennyjs/',
-          'https://https://medium.com/@kevennykeke/',
+          'https://medium.com/@kevennykeke/',
           'https://instagram.com/kevennyjs',
         ],
         code = {
