@@ -49,7 +49,7 @@ class Developer {
         code = {
           'mobile': ['Flutter'],
           'frontend': ['Flutter', 'VUE', 'HTML', 'CSS', 'JavaScript'],
-          'backend': ['C/C++', 'C#', '.NET', 'NodeJS', 'Python','PHP', 'LUA', 'Haskell'],
+          'backend': ['C/C++', 'C#', '.NET', 'NodeJS', 'NestJS', 'Go','Python','PHP', 'LUA', 'Haskell'],
           'low_level': ['Assembly'],
           'database': ['SQL SERVER', 'MySQL', 'PostegreSQL','Oracle', 'Mongo DB'],
           'devops': ['Docker', 'GitHub Actions'],
@@ -58,7 +58,9 @@ class Developer {
             'GitHub',
             'GitLab',
             'BitBucket',
-            'Azure DevOps'
+            'Azure DevOps',
+            'Prisma',
+            'Elementor'
           ],
           'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture', 'Figma']
         };
