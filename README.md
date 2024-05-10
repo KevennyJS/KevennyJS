@@ -49,10 +49,10 @@ class Developer {
         code = {
           'mobile': ['Flutter'],
           'frontend': ['Flutter', 'VUE', 'HTML', 'CSS', 'JavaScript'],
-          'backend': ['C/C++', 'C#', '.NET', 'NodeJS', 'NestJS', 'Go','Python','PHP', 'LUA', 'Haskell'],
+          'backend': ['C/C++', 'C#', '.NET', 'JavaScript', 'TypeScript', 'NodeJS', 'NestJS', 'Go','Python','PHP', 'LUA', 'Haskell'],
           'low_level': ['Assembly'],
           'database': ['SQL SERVER', 'MySQL', 'PostegreSQL','Oracle', 'Mongo DB'],
-          'devops': ['Docker', 'GitHub Actions'],
+          'devops': ['Docker', 'GitHub Actions', 'Infra'],
           'tools': [
             'GIT',
             'GitHub',
@@ -62,7 +62,7 @@ class Developer {
             'Prisma',
             'Elementor'
           ],
-          'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture', 'Figma']
+          'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture', 'Figma', 'Linux']
         };
 }
 ```
